@@ -14,7 +14,7 @@ import pandas as pd
 import pylab as pl
 import numpy as np
 plt.rcParams["font.family"] = "Times New Roman"
-#mpl.rcParams.update({'font.size': 14})
+mpl.rcParams.update({'font.size': 18})
 
 import IPython as IP
 IP.get_ipython().magic('reset -sf')
